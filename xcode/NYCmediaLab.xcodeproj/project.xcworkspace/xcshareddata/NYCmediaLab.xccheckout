@@ -6,26 +6,38 @@
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>4FCB5D21-CE79-458D-AE31-483DBCB555E8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NYCmediaLab</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>24A3E1FBD1E6307898B81291166E85892EE9AB53</key>
 		<string>https://github.com/wieden-kennedy/Cinder-OpenNI.git</string>
+		<key>69F6A4A134DFD7D986B4AD60C9FE08E6BAC3536F</key>
+		<string>https://github.com/Craigson/NYCmediaLab.git</string>
 		<key>AD4B458D0D225ED63FAE0155615993B7D3ECE020</key>
 		<string>https://github.com/Craigson/Cinder.git</string>
+		<key>D1D31A4D1B0CCC9B03A2D107004B38DEFF7D8FBE</key>
+		<string>https://github.com/cinder/Cinder-OpenCV.git</string>
 	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>xcode/NYCmediaLab.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>24A3E1FBD1E6307898B81291166E85892EE9AB53</key>
-		<string>Cinder-OpenNI/</string>
+		<string>../../../../Cinder/blocks/Cinder-OpenNI</string>
+		<key>69F6A4A134DFD7D986B4AD60C9FE08E6BAC3536F</key>
+		<string>../../..</string>
 		<key>AD4B458D0D225ED63FAE0155615993B7D3ECE020</key>
-		<string>..</string>
+		<string>../../../../Cinder</string>
+		<key>D1D31A4D1B0CCC9B03A2D107004B38DEFF7D8FBE</key>
+		<string>../../../../../Cinder/blocks/OpenCV</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/wieden-kennedy/Cinder-OpenNI.git</string>
+	<string>https://github.com/Craigson/NYCmediaLab.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>24A3E1FBD1E6307898B81291166E85892EE9AB53</string>
+	<string>69F6A4A134DFD7D986B4AD60C9FE08E6BAC3536F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +46,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>AD4B458D0D225ED63FAE0155615993B7D3ECE020</string>
 			<key>IDESourceControlWCCName</key>
-			<string>..</string>
+			<string>Cinder</string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
@@ -43,6 +55,22 @@
 			<string>24A3E1FBD1E6307898B81291166E85892EE9AB53</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Cinder-OpenNI</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>69F6A4A134DFD7D986B4AD60C9FE08E6BAC3536F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NYCmediaLab</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D1D31A4D1B0CCC9B03A2D107004B38DEFF7D8FBE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OpenCV</string>
 		</dict>
 	</array>
 </dict>

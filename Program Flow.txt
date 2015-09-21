@@ -1,0 +1,17 @@
+Program Flow:
+
+define the grid size / calculate number of nodes
+
+add nodes
+
+connect with springs
+
+create array to store calibration values
+
+update:
+	update kinect
+	get depth values
+	create custom indices based on grid spacing (store in array)
+	get depth values using custom indices as the index for each
+
+	set force strength based on distance from rest position

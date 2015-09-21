@@ -386,4 +386,32 @@ dependencies: \
   /Users/Craig/Documents/cinder/Cinder/blocks/Cinder-OpenNI/src/OpenNI/OniProperties.h \
   /Users/Craig/Documents/cinder/Cinder/blocks/Cinder-OpenNI/src/OpenNI/OniEnums.h \
   /Users/Craig/Documents/cinder/Cinder/blocks/Cinder-OpenNI/src/NiTE/NiteEnums.h \
-  ../../../Cinder/include/cinder/CameraUi.h
+  ../../../Cinder/include/cinder/CameraUi.h \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/CinderOpenCV.h \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/opencv.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/core/core_c.h \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/core/types_c.h \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/core/core.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/core/version.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/core/operations.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/core/mat.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/flann/miniflann.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/flann/defines.h \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/flann/config.h \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/imgproc/imgproc_c.h \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/imgproc/types_c.h \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/imgproc/imgproc.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/photo/photo.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/photo/photo_c.h \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/video/video.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/video/tracking.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/video/background_segm.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/features2d/features2d.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/objdetect/objdetect.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/calib3d/calib3d.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/ml/ml.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/highgui/highgui_c.h \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/highgui/highgui.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/contrib/contrib.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/contrib/retina.hpp \
+  /Users/Craig/Documents/cinder/Cinder/blocks/OpenCV/include/opencv2/contrib/openfabmap.hpp
